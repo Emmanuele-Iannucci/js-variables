@@ -15,9 +15,9 @@ const luckyNumber = '3'
 const phrase = 'Dream on'
 const isCodingFun = 'true'
 
-console.log (luckyNumber)
-console.log (phrase)
-console.log (isCodingFun)
+console.log(luckyNumber)
+console.log(phrase)
+console.log(isCodingFun)
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
