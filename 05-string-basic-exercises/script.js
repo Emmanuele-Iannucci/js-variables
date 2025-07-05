@@ -11,6 +11,14 @@ console.log(nickname)
 // e assegna rispettivamente un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const luckyNumber = '3'
+const phrase = 'Dream on'
+const isCodingFun = 'true'
+
+console.log (luckyNumber)
+console.log (phrase)
+console.log (isCodingFun)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il soprannome completo
