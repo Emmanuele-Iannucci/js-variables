@@ -31,5 +31,5 @@ console.log(completeName); // Output: "Alex Thunder"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile characters per ottenere la sua lunghezza
-const alphabetSize = null;
+const alphabetSize = characters.length;
 console.log(alphabetSize); // Output: 26
