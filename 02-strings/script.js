@@ -12,7 +12,7 @@ console.log(name)
 
 const number = 34
 const text = "Forza"
-const bool = vero 
+const bool = false 
 
 console.log(number)
 console.log(text)
