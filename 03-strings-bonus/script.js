@@ -16,6 +16,7 @@ console.log(citySubstring); // Output: "York"
 
 // 3. Sostituzione
 // Sostituisci 'York' con 'Delhi'
+// replace (ago, agoSostitutivo)
 const cityReplaced = city.replace("York", "Delhi")
 console.log(cityReplaced); // Output:  "New Delhi"
 
